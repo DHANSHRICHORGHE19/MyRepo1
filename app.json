@@ -1,0 +1,1 @@
+{ "name": "TodoListApp", "version": "1.0.0", "description": "A simple Todo List app built using Power Apps.", "permissions": { "read": true, "write": true } }
